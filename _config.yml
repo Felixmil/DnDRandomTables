@@ -15,6 +15,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 markdown: kramdown
 theme: jekyll-theme-cayman
-title: DND Random Tables
+title: <a href="https://felixmil.github.io/DnDRandomTables/">DND Random Tables</a>
 description: [A short description of your site's purpose]
 
