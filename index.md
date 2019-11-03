@@ -2,7 +2,7 @@
 
 
 # Table of Content
-
+* TOC {:toc}
   
 
 ## In game tables
