@@ -6,12 +6,14 @@
 
 # DND Ramdom Tables Collection
 
-## In game tables
 
-### Items
+## Items
  
-- #### [Magic Items](items/magic-items.md)
-- #### [Plants](items/plants.md)
-- #### [Potions](items/potions.md)
-  
-## Game preparation tables
+- ### [Magic Items](items/magic-items.md)
+- ### [Plants](items/plants.md)
+- ### [Potions](items/potions.md)
+
+## Names
+
+- ### [NPC Names](names/npc.md)
+
