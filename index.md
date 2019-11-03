@@ -1,8 +1,7 @@
 # DND Ramdom Tables Collection
 
-
-# Table of Content
-* TOC {:toc}
+* TOC 
+{:toc}
   
 
 ## In game tables
