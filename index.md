@@ -8,7 +8,7 @@
 
 ## In game tables
 
- ### Items
+### Items
  
   - [Plants](items/plants.md)
   
