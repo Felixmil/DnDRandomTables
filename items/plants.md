@@ -1,7 +1,8 @@
-# Plants
 
-*TOC
+* TOC 
 {:toc}
+
+---
 
 ## Plants and properties
 
