@@ -13,7 +13,7 @@
 
 ### Table
 
-| Roll Desc |          Desc         |      Plant Name     |      Used Part      |                            Effect                           |             Stat Buff/Debuff            | Type/Color |
+| Roll |          Desc         |      Plant Name     |      Used Part      |                            Effect                           |             Stat Buff/Debuff            | Type/Color |
 |-----------|-----------------------|---------------------|---------------------|-------------------------------------------------------------|-----------------------------------------|------------|
 |         1 | :thumbsup:            | Lemongrass          | Roots               | Used as a calming agent.                                    | +2 WIS (for 1d4 rnds)                   |            |
 |         2 | :thumbsdown: :skull:  | Moonseed            | Berries             | May be fatal.                                               | Death (FORT 10)                         | Purple     |
