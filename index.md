@@ -4,4 +4,4 @@
 
 ## Items
 
-  - [Plants](items/plants.html)
+  - [Plants](items/plants)
