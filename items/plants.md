@@ -1,4 +1,8 @@
 # Plants
+
+*TOC
+{:toc}
+
 ## Plants and properties
 
 ### Legend
