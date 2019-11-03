@@ -2,6 +2,7 @@
 ## Plants and properties
 
 ### Legend
+
 |     icon     |   legend  |
 |--------------|-----------|
 | :thumbsup:   | Good      |
@@ -11,6 +12,7 @@
 | :sparkles:   | Magical   |
 
 ### Table
+
 | Roll Desc |          Desc         |      Plant Name     |      Used Part      |                            Effect                           |             Stat Buff/Debuff            | Type/Color |
 |-----------|-----------------------|---------------------|---------------------|-------------------------------------------------------------|-----------------------------------------|------------|
 |         1 | :thumbsup:            | Lemongrass          | Roots               | Used as a calming agent.                                    | +2 WIS (for 1d4 rnds)                   |            |
