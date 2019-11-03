@@ -17,6 +17,4 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 title: <a href="https://felixmil.github.io/DnDRandomTables/" style="color:black">DND Random Tables</a>
 description: A collection of tables for random DnD content
-github:
-  is_project_page: false
 
