@@ -10,6 +10,7 @@
 
 ### Items
  
+- ### [Magic Items](magic-items.md)
 - #### [Plants](items/plants.md)
 - #### [Potions](items/potions.md)
   
