@@ -1,3 +1,5 @@
+# Plants and properties
+
 | Roll Desc |      Plant Name     |      Used Part      |                            Effect                           |             Stat Buff/Debuff            | Type/Color |
 |-----------|---------------------|---------------------|-------------------------------------------------------------|-----------------------------------------|------------|
 |         1 | Lemongrass          | Roots               | Used as a calming agent.                                    | +2 WIS (for 1d4 rnds)                   |            |
