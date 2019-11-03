@@ -10,6 +10,6 @@
 
 ### Items
  
-#### [Plants](items/plants.md)
+- #### [Plants](items/plants.md)
   
 ## Game preparation tables
