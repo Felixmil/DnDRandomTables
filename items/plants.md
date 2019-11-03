@@ -1,5 +1,16 @@
-# Plants and properties
+# Plants
+## Plants and properties
 
+### Legend
+|     icon     |   legend  |
+|--------------|-----------|
+| :thumbsup:   | Good      |
+| :thumbsdown: | Bad       |
+| :skull:      | Deathly   |
+| :pill:       | Medicinal |
+| :sparkles:   | Magical   |
+
+### Table
 | Roll Desc |          Desc         |      Plant Name     |      Used Part      |                            Effect                           |             Stat Buff/Debuff            | Type/Color |
 |-----------|-----------------------|---------------------|---------------------|-------------------------------------------------------------|-----------------------------------------|------------|
 |         1 | :thumbsup:            | Lemongrass          | Roots               | Used as a calming agent.                                    | +2 WIS (for 1d4 rnds)                   |            |
@@ -104,11 +115,3 @@
 |       100 | :thumbsup: :sparkles: | Goat's Grass        | Whole Plant         | Increases Strength.                                         | +8 STR (for 1d4 rnds)                   |            |
 
 
-
-|     icon     |   legend  |
-|--------------|-----------|
-| :thumbsup:   | Good      |
-| :thumbsdown: | Bad       |
-| :skull:      | Deathly   |
-| :pill:       | Medicinal |
-| :sparkles:   | Magical   |
