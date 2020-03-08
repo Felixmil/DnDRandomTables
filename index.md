@@ -1,10 +1,12 @@
-
 * TOC 
 {:toc}
 
+
+{{TOC}}
+
 ---
 
-# DND Ramdom Tables Collection
+# Tables Collection
 
 
 ## Items
@@ -22,3 +24,6 @@
 
 - [On the road](events/on_the_road.md)
 
+# Tools
+
+- [NPC generator](http://www.npcgenerator.com)
